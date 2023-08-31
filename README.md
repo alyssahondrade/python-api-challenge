@@ -64,3 +64,14 @@ The Jupyter notebooks [`WeatherPy.ipynb`](https://github.com/alyssahondrade/pyth
 5. Create a map of the final results, adding the hotel name and city as additional information for each data point.
 
 ## References
+The code used to create the maps is derived from the Bootcamp Week 6 Day 3.
+
+- [1] PyPlot Annotation [https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.annotate.html](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.annotate.html)
+
+- [2] How to add bold annotated text to a plot [https://stackoverflow.com/questions/36162414/how-to-add-bold-annotated-text-to-a-plot](https://stackoverflow.com/questions/36162414/how-to-add-bold-annotated-text-to-a-plot)
+
+- [3] Add an Empty Column to a DataFrame [https://sparkbyexamples.com/pandas/pandas-add-an-empty-column-to-dataframe/](https://sparkbyexamples.com/pandas/pandas-add-an-empty-column-to-dataframe/)
+
+- [4] What is Latitude? [https://oceanservice.noaa.gov/facts/latitude.html](https://oceanservice.noaa.gov/facts/latitude.html)
+
+- [5] Multiple Linear Regression made simple [https://statsandr.com/blog/multiple-linear-regression-made-simple/](https://statsandr.com/blog/multiple-linear-regression-made-simple/)
