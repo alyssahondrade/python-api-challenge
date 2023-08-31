@@ -15,11 +15,24 @@ Github repository at: [https://github.com/alyssahondrade/python-api-challenge.gi
 
 ## Introduction
 ### Goal
+The goal is to investigate the question `"What is the weather like as we approach the equator?"`, by investigating the relationships between:
+- Latitude vs Temperature
+- Latitude vs Humidity
+- Latitude vs Cloudiness
+- Latitude vs Wind Speed
+
+Given the data gathered to answer the question above, identify cities with "ideal conditions" for a vacation.
+
+This will be achieved through two scripts: `WeatherPy.ipynb` and `VacationPy.ipynb`.
 
 ### Repository Structure
+The Jupyter notebooks `WeatherPy.ipynb` and `VacationPy.ipynb` are held in the root directory.
+
+`output` directory contains the results for `WeatherPy.ipynb`.
 
 ### Dataset
-
+[`OpenWeatherMap's Weather API`](https://openweathermap.org/api) was used to retrieve weather data for each city.
+[`Geoapify's Places API`](https://www.geoapify.com) was used to retrieve hotels within a radius of the city latitude and longitude.
 
 ## Approach
 ### WeatherPy
