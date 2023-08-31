@@ -23,12 +23,12 @@ The goal is to investigate the question `"What is the weather like as we approac
 
 Given the data gathered to answer the question above, identify cities with "ideal conditions" for a vacation.
 
-This will be achieved through two scripts: `WeatherPy.ipynb` and `VacationPy.ipynb`.
+This will be achieved through two scripts: [`WeatherPy.ipynb`](https://github.com/alyssahondrade/python-api-challenge/blob/main/WeatherPy.ipynb) and [`VacationPy.ipynb`](https://github.com/alyssahondrade/python-api-challenge/blob/main/VacationPy.ipynb).
 
 ### Repository Structure
-The Jupyter notebooks `WeatherPy.ipynb` and `VacationPy.ipynb` are held in the root directory.
+The Jupyter notebooks [`WeatherPy.ipynb`](https://github.com/alyssahondrade/python-api-challenge/blob/main/WeatherPy.ipynb) and [`VacationPy.ipynb`](https://github.com/alyssahondrade/python-api-challenge/blob/main/VacationPy.ipynb) are held in the root directory.
 
-`output` directory contains the results for `WeatherPy.ipynb`.
+`output` directory contains the results for [`WeatherPy.ipynb`](https://github.com/alyssahondrade/python-api-challenge/blob/main/WeatherPy.ipynb).
 
 ### Dataset
 [`OpenWeatherMap's Weather API`](https://openweathermap.org/api) was used to retrieve weather data for each city.
